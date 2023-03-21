@@ -1,8 +1,8 @@
-# QA-Enginer
+## Testing
 Here I throw in my exercises I have done, and tools that can be useful for testing
 
-## Postman
+### Postman
 > My exercises done in Postman
 
-## Testing Tools
+### Testing Tools
 > Support tools for testing
