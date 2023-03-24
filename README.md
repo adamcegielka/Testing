@@ -11,12 +11,12 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [Generator danych testowych](https://chrome.google.com/webstore/detail/generator-danych-testowyc/emdnjmkfcjemifplhmbkjmelnckonggd?hl=pl)
 
 ### Performance tests
-- [PageSpeed Insights](https://pagespeed.web.dev/?hl=pl)
+- [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Test optymalizacji mobilnej](https://search.google.com/test/mobile-friendly)
 - [Text Compare](https://text-compare.com/)
 
 ### Others
-- [code2flow](hhttps://app.code2flow.com/)
+- [code2flow](https://app.code2flow.com/)
 - [JSON Editor](https://jsoneditoronline.org/)
 
 ### English spelling
