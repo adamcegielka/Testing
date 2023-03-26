@@ -29,7 +29,7 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [Pokémon API](https://pokeapi.co/)
 - [0MDb API](https://www.omdbapi.com/)
 
-## Training for testing
+### Training for testing
 - [AcademyBugs](https://academybugs.com/find-bugs/) Explore a practice test site that has 25 real bugs planted inside.
 - [Restful-Booker](https://restful-booker.herokuapp.com/) API Testing
 - [Generic Shop](https://skleptest.pl/) Online shop testing
@@ -37,7 +37,7 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [Swag Labs](https://www.saucedemo.com/) Online shop testing
 - [Telerik](https://www.telerik.com/support/demos) Websites and mobile apps
 
-## Learning by playing
+### Learning by playing
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Diner](https://flukeout.github.io/)
@@ -49,3 +49,7 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [Reverso Context](https://context.reverso.net/)
 - [Insta Text](https://instatext.io/)
 - [Grammarly](https://www.grammarly.com/)
+
+### ChatGPT
+- [GPT-4](https://chat.openai.com/) OpenAI’s most advanced system
+- [Midjourney](https://midjourney.com/) Image generation
