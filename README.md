@@ -35,6 +35,7 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [Generic Shop](https://skleptest.pl/) Online shop testing
 - [Etsydemo](https://etsydemo.knowband.com/en/) Online shop testing
 - [Swag Labs](https://www.saucedemo.com/) Online shop testing
+- [AutomationExercise](https://automationexercise.com/) Online shop testing
 - [Telerik](https://www.telerik.com/support/demos) Websites and mobile apps
 
 ### Learning by playing
