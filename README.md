@@ -1,25 +1,33 @@
 ## Helpful for testing
+
 Here I throw in my exercises I have done, and tools that can be useful for testing
 
 ### Data generators
+
 - [DaneTestowe](https://danetestowe.pl/)
+- [Personal details](https://devskiller.com/datafairy/#/person)
 - [Generatory IT](http://generatory.it/)
+- [Test card numbers](https://docs.adyen.com/development-resources/testing/test-card-numbers)
 - [Mailinator](https://www.mailinator.com/)
 - [TempMail](https://temp-mail.org/)
 
 ### Plug-ins for chrome
+
 - [Generator danych testowych](https://chrome.google.com/webstore/detail/generator-danych-testowyc/emdnjmkfcjemifplhmbkjmelnckonggd?hl=pl)
 
 ### Performance tests
+
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Test optymalizacji mobilnej](https://search.google.com/test/mobile-friendly)
 - [Text Compare](https://text-compare.com/)
 
 ### Others
+
 - [code2flow](https://app.code2flow.com/)
 - [JSON Editor](https://jsoneditoronline.org/)
 
 ### REST API
+
 - [Postman](https://www.postman.com/)
 - [Swagger Petstore](https://petstore.swagger.io/)
 - [restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)
@@ -30,6 +38,7 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [0MDb API](https://www.omdbapi.com/)
 
 ### Training for testing
+
 - [AcademyBugs](https://academybugs.com/find-bugs/) Explore a practice test site that has 25 real bugs planted inside.
 - [Restful-Booker](https://restful-booker.herokuapp.com/) API Testing
 - [Generic Shop](https://skleptest.pl/) Online shop testing
@@ -39,6 +48,7 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [Telerik](https://www.telerik.com/support/demos) Websites and mobile apps
 
 ### Learning by playing
+
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 - [CSS Diner](https://flukeout.github.io/)
@@ -46,11 +56,13 @@ Here I throw in my exercises I have done, and tools that can be useful for testi
 - [CheckiO](https://checkio.org/)
 
 ### English spelling
+
 - [DeepL](https://www.deepl.com/)
 - [Reverso Context](https://context.reverso.net/)
 - [Insta Text](https://instatext.io/)
 - [Grammarly](https://www.grammarly.com/)
 
 ### ChatGPT
+
 - [GPT-4](https://chat.openai.com/) OpenAI’s most advanced system
 - [Midjourney](https://midjourney.com/) Image generation
